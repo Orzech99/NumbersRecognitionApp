@@ -7,6 +7,7 @@ Libraries Used:
 
 NeuralNetwork - Library made by Marek Zalewski aka Drwalin aka DrwalinPCF
 https://github.com/DrwalinPCF/NeuralNetwork
+
 SFML - Simple and Fast Multimedia Library
 https://www.sfml-dev.org
 Rest of libraries, are just standard libraries, like iostream, or fstream.
