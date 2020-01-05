@@ -7,7 +7,7 @@ A few days ago I started recreating this project, with updated
 neural network library.
 I started doing everything again from scratch,
 from now on I will be updating the repository till
-the project will bugs-free and fully working,
+the project will be bugs-free and fully working,
 the way it was supposed to.
 NeuralNetwork - Library made by Marek Zalewski aka Drwalin aka DrwalinPCF
 https://github.com/DrwalinPCF/NeuralNetwork
