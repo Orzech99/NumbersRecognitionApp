@@ -1,18 +1,11 @@
+//
+//  main.cpp
+//  netmaker
+//
+//  Created by Kacper Orzeszko on 08/01/2020.
+//  Copyright © 2020 Kacper Orzeszko. All rights reserved.
+//
 
-//
-// Disclaimer:
-// ----------
-//
-// This code will work only if you selected window, graphics and audio.
-//
-// Note that the "Run Script" build phase will copy the required frameworks
-// or dylibs to your application bundle so you can execute it on any OS X
-// computer.
-//
-// Your resource files (images, sounds, fonts, ...) are also copied to your
-// application bundle. To get the path to these resources, use the helper
-// function `resourcePath()` from ResourcePath.hpp
-//
 
 #include <SFML/Audio.hpp>
 #include <SFML/Graphics.hpp>
@@ -57,7 +50,7 @@ int main()
     }
     data << 784 << "\n";
     data << 10 << "\n";
-    data << 5001 << "\n";
+    data << 50010 << "\n";
     
     sf::Image number_im;
     int image_count = 0;
